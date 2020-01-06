@@ -2,22 +2,31 @@
 layout: default
 ---
 
+
 ## Introduction
 
-<img src="assets/images/boys.jpg" alt="Photo" hspace="10" width="40%" align="right"/>
-After two mentally challenging? years of studying at the Physics Department at the University of Turku, I managed to change my life around with support from my family and friends and applied to University of Helsinki to study linguistics as my major. Now as I have completed half of my first year with passion towards my field, the excitement and blah is difficult to put into words.
 
-I applied to my department with headstrong goals to become a researcher but now as I have scraped the surface of language technology, I would also like to see the depths. Thought of realistic employment is also tempting me towards more practical thinking.
 
-## Find me on
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Alpaca_headshot.jpg" alt="Photo" hspace="10" width="40%" align="right"/>
 
-[GitHub](https://github.com/hamaro777)
+
+After two years of testing my mental limits and studying at the Physics Department at the University of Turku, I managed to completely turn my goals and interests on their head and successfully applied to University of Helsinki to study linguistics as my major. Now after completing half of my first year in a field with a completely different approach to science I'm waiting to see just what I can make out of myself.
+
+
+I applied to my department with headstrong goals of becoming a researcher but now as I have scraped the surface of language technology, I would also like to see the depths. Thought of realistic employment possibilities is also tempting me towards changing my previous plans.
+
+
+
+## Contact me or check out my Github page and CV
+
+[GitHub!](https://github.com/hamaro777)
+
+My email address is in the form first_name.a.last_name@helsinki.fi.
+
+If you want to see my CV, click [here](/assets/documents/Roosa_hamalainen_CV.pdf).
 
 Or if you want to meet me in person, I may be found [here](https://fi-fi.facebook.com/pages/Ravintola-Ruiskumestari/212527152108153).
 
-## Contact
-
-My email address is of the form first_name.a.last_name@helsinki.fi. 
 
 ## Courses I've Taken (a selection)
 
@@ -33,12 +42,12 @@ My email address is of the form first_name.a.last_name@helsinki.fi.
 
 ## Projects
 
-My only project **for now**, is the currently ongoing project of completing a course _Introduction to Command Line Tools for Linguists_. Check my progress so far [here](https://github.com/hamaro777/cmdline-course)
+My only project **for now**, is the currently ongoing project of completing a course _Introduction to Command Line Tools for Linguists_. For more information see page _Command-Line Course_. A Github project previously completed on this course can be seen [here](https://github.com/hamaro777/cmdline-course)
 
 ## Misc. 
 
 I'm also an Event Organization Member for the department club of linguists in Helsinki University, also known as [Aspekti](http://www.ling.helsinki.fi/aspekti/).
 
-I'll be working as a teacher assistant in the upcoming Corpuslinguists course, see the course outline [here](https://courses.helsinki.fi/fi/kik-404/120705419).
+I'll be working as a teaching assistant in the upcoming Corpuslinguists course, see the course outline [here](https://courses.helsinki.fi/fi/kik-404/120705419).
 
-If you would like to plant a tree or two, check out this [donation campaign](https://teamtrees.org/)!
+If you're intrested in planting a tree or two, check out this [donation campaign](https://teamtrees.org/)!
